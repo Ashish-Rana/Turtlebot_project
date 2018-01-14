@@ -1,0 +1,4 @@
+<launch>
+    <node name="seeker1" type="seeker_node" pkg="seeker"  output="screen"/>
+
+</launch> 
